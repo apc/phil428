@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-01-10T20:19:10-08:00</updated>
+  <updated>2012-01-10T20:20:26-08:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -18,7 +18,7 @@
     <link href="http://perezcarballo.org/phil428/blog/2012/01/10/welcome/"/>
     <updated>2012-01-10T20:15:00-08:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/01/10/welcome</id>
-    <content type="html"><![CDATA[<p>This is the website for PHIL 428. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking this website regularly. You can follow the <a href="http://twitter.com/Phil_428">Twitter feed</a>, if you are on <a href="http://twitter.com">Twitter</a>. Otherwise, you can either subscribe to the RSS feed or simply come <a href="index.html">here</a> regularly to stay up to date.</p>
+    <content type="html"><![CDATA[<p>This is the website for PHIL 428. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking this website regularly. You can follow the <a href="http://twitter.com/Phil_428">Twitter feed</a>, if you are on <a href="http://twitter.com">Twitter</a>. Otherwise, you can either subscribe to the <a href="http://perezcarballo.org/phil428/atom.xml">RSS feed</a> or simply come <a href="index.html">here</a> regularly to stay up to date.</p>
 ]]></content>
   </entry>
   
