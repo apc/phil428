@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://apc.github.com/phil428/blog/archives/</loc>
+        <loc>http://perezcarballo.org/phil428/blog/archives/</loc>
         <lastmod>2012-01-10T15:33:31-08:00</lastmod>
     </url>
     <url>
-        <loc>http://apc.github.com/phil428/</loc>
+        <loc>http://perezcarballo.org/phil428/</loc>
         <lastmod>2012-01-10T15:33:31-08:00</lastmod>
     </url>
     <url>
-        <loc>http://apc.github.com/phil428/syllabus/</loc>
+        <loc>http://perezcarballo.org/phil428/syllabus/</loc>
         <lastmod>2012-01-10T16:06:01-08:00</lastmod>
     </url>
 </urlset>

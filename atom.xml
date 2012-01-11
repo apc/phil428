@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://apc.github.com/phil428/atom.xml" rel="self"/>
-  <link href="http://apc.github.com/phil428/"/>
-  <updated>2012-01-10T16:06:08-08:00</updated>
-  <id>http://apc.github.com/phil428/</id>
+  <title><![CDATA[Phil 428]]></title>
+  <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
+  <link href="http://perezcarballo.org/phil428/"/>
+  <updated>2012-01-10T16:09:26-08:00</updated>
+  <id>http://perezcarballo.org/phil428/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alejandro Pérez Carballo]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
