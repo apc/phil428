@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: readings, | Phil 428]]></title>
-  <link href="http://perezcarballo.org/phil428/blog/categories/readings-/atom.xml" rel="self"/>
+  <title><![CDATA[Category: readings | Phil 428]]></title>
+  <link href="http://perezcarballo.org/phil428/blog/categories/readings/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-01-11T15:05:57-08:00</updated>
+  <updated>2012-01-11T23:51:16-08:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
