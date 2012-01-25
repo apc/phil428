@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-01-25T15:50:47-08:00</updated>
+  <updated>2012-01-25T15:54:10-08:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -18,32 +18,39 @@
     <link href="http://perezcarballo.org/phil428/blog/2012/01/25/next-week/"/>
     <updated>2012-01-25T15:29:00-08:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/01/25/next-week</id>
-    <content type="html"><![CDATA[<p>Next week we will finish our discussion about the Private Language Argument. After that, we will move on to talk about Hare&#8217;s <em>The Language of Morals</em>. I will specify the relevant sections in the next day or two. In the meantime, I wanted to give you some suggestions for how to prepare for our next meeting.</p>
+    <content type="html"><![CDATA[<p>Next week we will finish our discussion about the Private Language Argument. After that, we will move on to talk about Hare’s <em>The Language of Morals</em>. I will specify the relevant sections in the next day or two. In the meantime, I wanted to give you some suggestions for how to prepare for our next meeting. </p>
 
 <!-- more -->
 
-
-<p>Remember that we were considering two different candidates for the conclusion of the Private Language Argument. Wittgenstein is arguing against the possibility of a language in which &#8220;The individual words [&#8230;] are to refer to what can only be known to the person speaking; to his immediate private sensations&#8221; (&sect;243). But this can be interpreted in one of two ways:</p>
+<p>Remember that we were considering two different candidates for the conclusion of the Private Language Argument. Wittgenstein is arguing against the possibility of a language in which “The individual words […] are to refer to what can only be known to the person speaking; to his immediate private sensations” (§243). But this can be interpreted in one of two ways: </p>
 
 <ol>
-<li>Words (or expressions) cannot refer to these &#8216;private sensations&#8217;.</li>
-<li>No word can be such that its meaning is exhausted by the &#8216;private sensations&#8217; it refers to.</li>
+  <li>Words (or expressions) cannot refer to these ‘private sensations’.</li>
+  <li>No word can be such that its meaning is exhausted by the ‘private sensations’ it refers to. </li>
 </ol>
-
 
 <p>Please think about the following two questions. Your answers to these will form the basis for our discussion next Monday.</p>
 
 <ul>
-<li>Can we argue from (1) to the conclusion that <em>there are no</em> private sensations?</li>
-<li>What reasons does Wittgenstein provide for thinking that (2) is true? Do they also support the claim that (1) is true?</li>
+  <li>Can we argue from (1) to the conclusion that <em>there are no</em> private sensations?</li>
+  <li>What reasons does Wittgenstein provide for thinking that (2) is true? Do they also support the claim that (1) is true? </li>
 </ul>
 
+<p>In thinking about these questions, you should grant Wittgenstein the following claim:<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup> </p>
 
-<p>In thinking about these questions, you should grant Wittgenstein the following claim:<a href="See">^fn1</a></p>
+<blockquote>
+  <p>For a word to have meaning, there must be publicly available standards to determine when utterances of sentences involving are correct.</p>
+</blockquote>
 
-<blockquote><p>For a word to have meaning, there must be publicly available standards to determine when utterances of sentences involving are correct.</p></blockquote>
+<p>Do not hesitate to contact me if you have any questions. And remember that I hold office hours on Mondays from 1-3. </p>
 
-<p>Do not hesitate to contact me if you have any questions. And remember that I hold office hours on Mondays from 1-3.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p>See the section titled ‘Wittgenstein on Meaning, Understanding, and Following a Rule’ in Soames, <em>Philosophical Analysis in the Twentieth Century</em>, Vol. 2 for discussion of this thesis in the context of the discussion of the rule-following considerations.<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
@@ -52,11 +59,13 @@
     <link href="http://perezcarballo.org/phil428/blog/2012/01/25/follow-up/"/>
     <updated>2012-01-25T15:14:00-08:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/01/25/follow-up</id>
-    <content type="html"><![CDATA[<p>Following up on the discussion today about Physicalism, I thought I&#8217;d point you to a paper that does a nice job at spelling out what the possible views are:</p>
+    <content type="html"><![CDATA[<p>Following up on the discussion today about Physicalism, I thought I’d point you to a paper that does a nice job at spelling out what the possible views are: </p>
 
-<blockquote><p>David Chalmers, &#8220;Consciousness and its place in Nature&#8221;. Reprinted in: Chalmers, D. (ed.), <a href="http://www.amazon.com/Philosophy-Mind-Classical-Contemporary-Readings/dp/019514581X"><em>Philosophy of Mind: Classical and Contemporary Readings</em></a>, New York: OUP, 2002.</p></blockquote>
+<blockquote>
+  <p>David Chalmers, “Consciousness and its place in Nature”. Reprinted in: Chalmers, D. (ed.), <a href="http://www.amazon.com/Philosophy-Mind-Classical-Contemporary-Readings/dp/019514581X"><em>Philosophy of Mind: Classical and Contemporary Readings</em></a>, New York: OUP, 2002. </p>
+</blockquote>
 
-<p>See in particular the section entitled &#8216;Type B Materialism&#8217;. (I&#8217;ve posted an electronic version of the paper in the <a href="http://db.tt/IreiS75o">Dropbox</a> folder.)</p>
+<p>See in particular the section entitled ‘Type B Materialism’. (I’ve posted an electronic version of the paper in the <a href="http://db.tt/IreiS75o">Dropbox</a> folder.)</p>
 ]]></content>
   </entry>
   
@@ -65,9 +74,9 @@
     <link href="http://perezcarballo.org/phil428/blog/2012/01/19/readings-for-january-23/"/>
     <updated>2012-01-19T18:02:00-08:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/01/19/readings-for-january-23</id>
-    <content type="html"><![CDATA[<p>For next Monday, re-read &sect;&sect;30-36 of the <em>Investigations</em> (available in the Dropbox folder). Also re-read the section entitled &#8216;Conceptual Prerequisites of Ostensive Definitions&#8217; in Soames&#8217; <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>
+    <content type="html"><![CDATA[<p>For next Monday, re-read §§30-36 of the <em>Investigations</em> (available in the Dropbox folder). Also re-read the section entitled ‘Conceptual Prerequisites of Ostensive Definitions’ in Soames’ <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>
 
-<p>If we have time, we will start discussing the Private Language Argument. This will occupy us for the rest of the week. On this, read &sect;&sect;243&#8211;259 and skim &sect;&sect;259&#8211;315 (in the Dropbox folder). You may also want to take a look at the section entitled &#8216;The Private Language Argument&#8217; in Soames&#8217; <em>Philosophical Analysis</em>, vol. 2, pp. 44&#8211;59.</p>
+<p>If we have time, we will start discussing the Private Language Argument. This will occupy us for the rest of the week. On this, read §§243–259 and skim §§259–315 (in the Dropbox folder). You may also want to take a look at the section entitled ‘The Private Language Argument’ in Soames’ <em>Philosophical Analysis</em>, vol. 2, pp. 44–59. </p>
 ]]></content>
   </entry>
   
@@ -76,13 +85,13 @@
     <link href="http://perezcarballo.org/phil428/blog/2012/01/11/readings-for-january-18/"/>
     <updated>2012-01-11T11:45:00-08:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/01/11/readings-for-january-18</id>
-    <content type="html"><![CDATA[<p>We will continue the discussion from today. Read the <em>Philosophical Investigations</em>, <del>&sect;30-26</del> &sect;&sect;30-36. I will make this available electronically through the <a href="http://db.tt/IreiS75o">Dropbox</a> folder.</p>
+    <content type="html"><![CDATA[<p>We will continue the discussion from today. Read the <em>Philosophical Investigations</em>, <del>§30-26</del> §§30-36. I will make this available electronically through the <a href="http://db.tt/IreiS75o">Dropbox</a> folder.</p>
 
-<p>In addition to this, there will be a short reading <a href="http://perezcarballo.org/phil428/assignments/">assignment</a> due before our next meeting, corresponding to &sect;6-21. The assignment will be posted in the next day or two.</p>
+<p>In addition to this, there will be a short reading <a href="http://perezcarballo.org/phil428/assignments/">assignment</a> due before our next meeting, corresponding to §6-21. The assignment will be posted in the next day or two. </p>
 
 <p>Remember there is no class on Monday (University holiday).</p>
 
-<p>UPDATE: You may also want to look at Soames&#8217; <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>
+<p>UPDATE: You may also want to look at Soames’ <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>
 ]]></content>
   </entry>
   
@@ -91,7 +100,7 @@
     <link href="http://perezcarballo.org/phil428/blog/2012/01/10/welcome/"/>
     <updated>2012-01-10T20:15:00-08:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/01/10/welcome</id>
-    <content type="html"><![CDATA[<p>This is the website for PHIL 428. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking this website regularly. You can follow the <a href="http://twitter.com/Phil_428">Twitter feed</a>, if you are on <a href="http://twitter.com">Twitter</a>. Otherwise, you can either subscribe to the <a href="http://perezcarballo.org/phil428/atom.xml">RSS feed</a> or simply come <a href="index.html">here</a> regularly to stay up to date.</p>
+    <content type="html"><![CDATA[<p>This is the website for PHIL 428. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking this website regularly. You can follow the <a href="http://twitter.com/Phil_428">Twitter feed</a>, if you are on <a href="http://twitter.com">Twitter</a>. Otherwise, you can either subscribe to the <a href="http://perezcarballo.org/phil428/atom.xml">RSS feed</a> or simply come <a href="index.html">here</a> regularly to stay up to date. </p>
 ]]></content>
   </entry>
   
