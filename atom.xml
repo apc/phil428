@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-02-20T10:00:13-08:00</updated>
+  <updated>2012-02-20T10:04:15-08:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New reading questions (Grice)]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/02/20/new-reading-questions-grice/"/>
+    <updated>2012-02-20T10:02:00-08:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/02/20/new-reading-questions-grice</id>
+    <content type="html"><![CDATA[<p>I posted a <a href='http://perezcarballo.org/phil428/assignments/#rq2'>new set</a> of reading questions.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Readings for 2/22]]></title>
