@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: syllabus | Phil 428]]></title>
+  <link href="http://perezcarballo.org/phil428/blog/categories/syllabus/atom.xml" rel="self"/>
+  <link href="http://perezcarballo.org/phil428/"/>
+  <updated>2012-03-15T16:29:33-04:00</updated>
+  <id>http://perezcarballo.org/phil428/</id>
+  <author>
+    <name><![CDATA[Alejandro Pérez Carballo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Updated reading schedule]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/03/14/updated-reading-schedule/"/>
+    <updated>2012-03-14T16:37:00-04:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/03/14/updated-reading-schedule</id>
+    <content type="html"><![CDATA[<p>As you may have noted, we have departed from the tentative schedule on the <a href='http://dl.dropbox.com/u/2015884/phil428.pdf'>syllabus</a>. We have six weeks of class left, so we are going to have to cut a few things from the original schedule. For now, the plan is to follow something like this updated schedule:</p>
+<!-- more -->
+<ol>
+<li>Week of 3/19: Finish Chapter 2 of Word and Object; start Kripke, <em>Wittgenstein on Rules and Private Language</em> (exceprts).</li>
+
+<li>Week of 3/26: Selections from Kripke, <em>Wittgenstein on Rules and Private Language</em>; Quine, &#8216;Reference and Modality&#8217;.</li>
+
+<li>Week of 4/2: Kripke <em>Naming and Necessity</em> (<a href='/calendar'>no class</a> on Wednesday, 4/4).</li>
+
+<li>Week of 4/9: Kripke, <em>Naming and Necessity</em>.</li>
+
+<li>Week of 4/16: Kripke, <em>Naming and Necessity</em>; Lewis, <em>On the Plurality of Worlds</em></li>
+
+<li>Week of 4/23: Lewis, <em>On the Plurality of Worlds</em>.</li>
+</ol>]]></content>
+  </entry>
+  
+</feed>
