@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-03-26T22:52:26-07:00</updated>
+  <updated>2012-03-29T15:55:43-07:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Two announcements]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/03/28/two-announcements/"/>
+    <updated>2012-03-28T11:45:00-07:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/03/28/two-announcements</id>
+    <content type="html"><![CDATA[<p>(Actually, three announcements.)</p>
+
+<p>First, about next week: We will finish our discussion of Chapter 2 of Kripke, <em>Wittgenstein on Rules and Private Language</em>. We will concentrate on his objections to the dispositional account. You may want to re-read pp. 21-36.</p>
+
+<p>If time permits, we will start our discussion of Quine, &#8216;Reference and Modality&#8217;, in <em>From a Logical Point of View</em>, 2nd ed., Cambridge: HUP, 1961. An electronic copy of that paper is available in the Dropbox folder. You may also want to look at Quine, &#8217;<a href='http://www.jstor.org/stable/2017458'>Notes on existence and Necessity</a>&#8217;, <em>Journal of Philosophy</em>, Vol. 40, No. 5, 1943, pp. 113-127, also available in the Dropbox folder.</p>
+<!-- more -->
+<p>Second, <a href='http://www.southampton.ac.uk/philosophy/about/staff/rm.page'>Ray Monk</a> (Professor of Philosophy at the University of Southampton, and author of a well-known biography of Wittgenstein, titled <em>The Duty of Genius</em>) will be giving a talk in the Philosophy Department on Thursday, April 5.</p>
+
+<blockquote>
+<p>Title: &#8220;How can I be a logician before I am a human being?&#8221;, The Life and Work of Ludwig Wittgenstein Time and place: Mudd Hall 102, 2pm</p>
+</blockquote>
+
+<p>It should be fun.</p>
+
+<p>Finally, remember there is <a href='http://perezcarballo.org/phil428/calendar'>no class</a> on Wednesday, April 4.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This coming Wednesday]]></title>
@@ -248,14 +270,6 @@
 <p>Remember there is no class on Monday (University holiday).</p>
 
 <p>UPDATE: You may also want to look at Soames&#8217; <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://perezcarballo.org/phil428/blog/2012/01/10/welcome/"/>
-    <updated>2012-01-10T20:15:00-08:00</updated>
-    <id>http://perezcarballo.org/phil428/blog/2012/01/10/welcome</id>
-    <content type="html"><![CDATA[<p>This is the website for PHIL 428. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking this website regularly. You can follow the <a href='http://twitter.com/Phil_428'>Twitter feed</a>, if you are on <a href='http://twitter.com'>Twitter</a>. Otherwise, you can either subscribe to the <a href='http://perezcarballo.org/phil428/atom.xml'>RSS feed</a> or simply come <a href='index.html'>here</a> regularly to stay up to date.</p>]]></content>
   </entry>
   
 </feed>
