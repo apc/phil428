@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-03-29T16:00:50-07:00</updated>
+  <updated>2012-04-12T19:50:07-07:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for the week of 4/16]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/04/12/readings-for-the-week-of-4-slash-16/"/>
+    <updated>2012-04-12T19:43:00-07:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/04/12/readings-for-the-week-of-4-slash-16</id>
+    <content type="html"><![CDATA[<p>Next week we will start our discussion of Kripke, <em>Naming and Necessity</em>. For Monday, please read the first lecture. As I mentioned in class last Wednesday, this is one instance where you <em>really</em> should not leave the reading until the last minute. Start reading as soon as you can.</p>
+
+<p>Note that there will be reading questions due Monday, so that&#8217;s another reason to do the readings in advance. The reading question will be <a href='http://perezcarballo.org/phil428/assignments'>posted</a> in the next few hours.</p>
+
+<p>One final note: please remember to fill out the Doodle poll for the make-up class.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Two announcements]]></title>
@@ -258,20 +270,6 @@
     <content type="html"><![CDATA[<p>For next Monday, re-read &#167;&#167;30-36 of the <em>Investigations</em> (available in the Dropbox folder). Also re-read the section entitled &#8216;Conceptual Prerequisites of Ostensive Definitions&#8217; in Soames&#8217; <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>
 
 <p>If we have time, we will start discussing the Private Language Argument. This will occupy us for the rest of the week. On this, read &#167;&#167;243&#8211;259 and skim &#167;&#167;259&#8211;315 (in the Dropbox folder). You may also want to take a look at the section entitled &#8216;The Private Language Argument&#8217; in Soames&#8217; <em>Philosophical Analysis</em>, vol. 2, pp. 44&#8211;59.</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Readings for January 18]]></title>
-    <link href="http://perezcarballo.org/phil428/blog/2012/01/11/readings-for-january-18/"/>
-    <updated>2012-01-11T11:45:00-08:00</updated>
-    <id>http://perezcarballo.org/phil428/blog/2012/01/11/readings-for-january-18</id>
-    <content type="html"><![CDATA[<p>We will continue the discussion from today. Read the <em>Philosophical Investigations</em>, <del>&sect;30-26</del> &#167;&#167;30-36. I will make this available electronically through the <a href='http://db.tt/IreiS75o'>Dropbox</a> folder.</p>
-
-<p>In addition to this, there will be a short reading <a href='http://perezcarballo.org/phil428/assignments/'>assignment</a> due before our next meeting, corresponding to &#167;6-21. The assignment will be posted in the next day or two.</p>
-
-<p>Remember there is no class on Monday (University holiday).</p>
-
-<p>UPDATE: You may also want to look at Soames&#8217; <em>Philosophical Analysis in the Twentieth Century</em>, vol. 2, pp. 6-8.</p>]]></content>
   </entry>
   
 </feed>
