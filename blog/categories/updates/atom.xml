@@ -4,7 +4,7 @@
   <title><![CDATA[Category: updates | Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/blog/categories/updates/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-04-15T15:37:16-07:00</updated>
+  <updated>2012-04-15T15:42:38-07:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Final paper topics posted]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/04/15/final-paper-topics-posted/"/>
+    <updated>2012-04-15T15:40:00-07:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/04/15/final-paper-topics-posted</id>
+    <content type="html"><![CDATA[<p>The <a href='http://perezcarballo.org/phil428/assignments/#paper2'>final paper topics</a> are now up. Please take a look so we can go over any questions you may have during the week.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Readings for the week of 4/16]]></title>
@@ -65,28 +73,6 @@
     <updated>2012-03-18T19:05:00-07:00</updated>
     <id>http://perezcarballo.org/phil428/blog/2012/03/18/readings-for-3-slash-21</id>
     <content type="html"><![CDATA[<p>Following up on the <a href='http://perezcarballo.org/phil428/blog/2012/03/14/readings-for-the-week-of-3-slash-19/'>previous post</a> on readings for this coming week: for Wednesday, read Chapter 1 as well as pp. 7-21 of Chapter 2 of Kripke, <em>Wittgenstein on Rules and Private Language</em>. An electronic copy is available in the usual place.</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Updated reading schedule]]></title>
-    <link href="http://perezcarballo.org/phil428/blog/2012/03/14/updated-reading-schedule/"/>
-    <updated>2012-03-14T16:37:00-07:00</updated>
-    <id>http://perezcarballo.org/phil428/blog/2012/03/14/updated-reading-schedule</id>
-    <content type="html"><![CDATA[<p>As you may have noted, we have departed from the tentative schedule on the <a href='http://dl.dropbox.com/u/2015884/phil428.pdf'>syllabus</a>. We have six weeks of class left, so we are going to have to cut a few things from the original schedule. For now, the plan is to follow something like this updated schedule:</p>
-<!-- more -->
-<ol>
-<li>Week of 3/19: Finish Chapter 2 of Word and Object; start Kripke, <em>Wittgenstein on Rules and Private Language</em> (exceprts).</li>
-
-<li>Week of 3/26: Selections from Kripke, <em>Wittgenstein on Rules and Private Language</em>; Quine, &#8216;Reference and Modality&#8217;.</li>
-
-<li>Week of 4/2: Kripke <em>Naming and Necessity</em> (<a href='/calendar'>no class</a> on Wednesday, 4/4).</li>
-
-<li>Week of 4/9: Kripke, <em>Naming and Necessity</em>.</li>
-
-<li>Week of 4/16: Kripke, <em>Naming and Necessity</em>; Lewis, <em>On the Plurality of Worlds</em></li>
-
-<li>Week of 4/23: Lewis, <em>On the Plurality of Worlds</em>.</li>
-</ol>]]></content>
   </entry>
   
 </feed>
