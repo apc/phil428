@@ -4,7 +4,7 @@
   <title><![CDATA[Category: updates | Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/blog/categories/updates/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-04-20T10:55:39-07:00</updated>
+  <updated>2012-04-22T14:07:07-07:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for tomorrow]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/04/22/readings-for-tomorrow/"/>
+    <updated>2012-04-22T14:06:00-07:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/04/22/readings-for-tomorrow</id>
+    <content type="html"><![CDATA[<p>Remember: tomorrow we&#8217;ll discuss Lecture 2 of <em>Naming and Necessity</em>.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Final paper topics posted]]></title>
@@ -65,14 +73,6 @@
     <content type="html"><![CDATA[<p>For Wednesday you should read the rest of Chapter 2 of Kripke, <em>Wittgenstein on Rules and Private Language</em>. An electronic copy is available in the usual place.</p>
 
 <p>Remember that if you are taking the class for credit, you should schedule an appointment to discuss your first paper. If you have not received an email from me with instructions on how to sign up, please let me know.</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Readings for 3/21]]></title>
-    <link href="http://perezcarballo.org/phil428/blog/2012/03/18/readings-for-3-slash-21/"/>
-    <updated>2012-03-18T19:05:00-07:00</updated>
-    <id>http://perezcarballo.org/phil428/blog/2012/03/18/readings-for-3-slash-21</id>
-    <content type="html"><![CDATA[<p>Following up on the <a href='http://perezcarballo.org/phil428/blog/2012/03/14/readings-for-the-week-of-3-slash-19/'>previous post</a> on readings for this coming week: for Wednesday, read Chapter 1 as well as pp. 7-21 of Chapter 2 of Kripke, <em>Wittgenstein on Rules and Private Language</em>. An electronic copy is available in the usual place.</p>]]></content>
   </entry>
   
 </feed>

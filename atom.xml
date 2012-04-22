@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 428]]></title>
   <link href="http://perezcarballo.org/phil428/atom.xml" rel="self"/>
   <link href="http://perezcarballo.org/phil428/"/>
-  <updated>2012-04-20T10:55:39-07:00</updated>
+  <updated>2012-04-22T14:07:07-07:00</updated>
   <id>http://perezcarballo.org/phil428/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for tomorrow]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/04/22/readings-for-tomorrow/"/>
+    <updated>2012-04-22T14:06:00-07:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/04/22/readings-for-tomorrow</id>
+    <content type="html"><![CDATA[<p>Remember: tomorrow we&#8217;ll discuss Lecture 2 of <em>Naming and Necessity</em>.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Final paper topics posted]]></title>
@@ -254,20 +262,6 @@
 <div class='footnotes'><hr /><ol><li id='fn:1'>
 <p>See the section titled &#8216;Wittgenstein on Meaning, Understanding, and Following a Rule&#8217; in Soames, <em>Philosophical Analysis in the Twentieth Century</em>, Vol. 2 for discussion of this thesis in the context of the discussion of the rule-following considerations.</p>
 <a href='#fnref:1' rev='footnote'>&#8617;</a></li></ol></div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Follow up]]></title>
-    <link href="http://perezcarballo.org/phil428/blog/2012/01/25/follow-up/"/>
-    <updated>2012-01-25T15:14:00-08:00</updated>
-    <id>http://perezcarballo.org/phil428/blog/2012/01/25/follow-up</id>
-    <content type="html"><![CDATA[<p>Following up on the discussion today about Physicalism, I thought I&#8217;d point you to a paper that does a nice job at spelling out what the possible views are:</p>
-
-<blockquote>
-<p>David Chalmers, &#8220;Consciousness and its place in Nature&#8221;. Reprinted in: Chalmers, D. (ed.), <a href='http://www.amazon.com/Philosophy-Mind-Classical-Contemporary-Readings/dp/019514581X'><em>Philosophy of Mind: Classical and Contemporary Readings</em></a>, New York: OUP, 2002.</p>
-</blockquote>
-
-<p>See in particular the section entitled &#8216;Type B Materialism&#8217;. (I&#8217;ve posted an electronic version of the paper in the <a href='http://db.tt/IreiS75o'>Dropbox</a> folder.)</p>]]></content>
   </entry>
   
 </feed>

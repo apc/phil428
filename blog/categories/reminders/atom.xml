@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: reminders | Phil 428]]></title>
+  <link href="http://perezcarballo.org/phil428/blog/categories/reminders/atom.xml" rel="self"/>
+  <link href="http://perezcarballo.org/phil428/"/>
+  <updated>2012-04-22T14:07:07-07:00</updated>
+  <id>http://perezcarballo.org/phil428/</id>
+  <author>
+    <name><![CDATA[Alejandro Pérez Carballo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for tomorrow]]></title>
+    <link href="http://perezcarballo.org/phil428/blog/2012/04/22/readings-for-tomorrow/"/>
+    <updated>2012-04-22T14:06:00-07:00</updated>
+    <id>http://perezcarballo.org/phil428/blog/2012/04/22/readings-for-tomorrow</id>
+    <content type="html"><![CDATA[<p>Remember: tomorrow we&#8217;ll discuss Lecture 2 of <em>Naming and Necessity</em>.</p>]]></content>
+  </entry>
+  
+</feed>
